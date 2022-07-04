@@ -113,3 +113,19 @@ width: 70%;
     width: 110%;    
 }
 
+.hero-banner3{
+    
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    padding: 100px;
+    background-color: #D6EDED;
+    color: black;
+    text-align: center;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgb(0, 0, 0);
+}
+.hero-banner3 h2{
+    font-size: 40px;
+}
