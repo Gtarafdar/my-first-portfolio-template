@@ -129,3 +129,69 @@ width: 70%;
 .hero-banner3 h2{
     font-size: 40px;
 }
+
+.hero-banner4{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    align-items: center;
+}
+
+/*.book-banner{
+    width: fit-content;
+}*/
+
+.book-banner img{
+    width: 150%;
+}
+
+.book-text{
+    height: 385px;
+    background-color: #353849;
+    padding-top: 101px;
+  
+    padding-left: 20px;
+    padding-right: 40px;
+    margin-left: 200px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.book-text h2{
+    font-size: 40px;
+    color: #29d38c;
+}
+
+.footer1{
+    padding: 60px;
+    background-color: #353849;
+    
+}
+
+.left-footer-text{
+    display: flex;
+    justify-content: center;
+color: white;
+ 
+}
+
+.left-footer-text :hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer1 hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+width: 700px;
+}
+
+.footer1 p{
+    color: wheat;
+    text-align: center;
+    
+    font-size: 12px;
+    
+}
